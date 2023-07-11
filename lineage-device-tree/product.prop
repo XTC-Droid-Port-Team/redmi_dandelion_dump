@@ -1,0 +1,6 @@
+Build.BRAND=MTK
+persist.device_config.runtime_native.usap_pool_enabled=false
+persist.sys.mdlog_dumpback=2
+persist.vendor.mdlog.need_dump=1
+ro.miui.build.region=cn
+ro.product.product.marketname=Redmi 10A
